@@ -11,3 +11,4 @@ Push commit -- git push;
 Pull commit -- git pull --rebase;
 Add brunch -- git branch /* Name branch */
 Go to brunch -- git checkout /* Name branch */
+Add push in brunch -- git push origin /* Name brunch */
