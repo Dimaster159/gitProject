@@ -14,3 +14,4 @@ Go to brunch -- git checkout /* Name branch */;
 Add push in brunch -- git push origin /* Name brunch */;
 Git stash -- git stash;
 Git stash pop -- git stash pop;
+Merge branch -- git merge /* Name branch */
