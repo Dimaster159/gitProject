@@ -8,3 +8,4 @@ Remoute added staging area -- git reset;
 View added files -- git status;
 Add commit -- git commit -m "/* Add discription */";
 Push commit -- git push;
+Pull commit -- git pull;
